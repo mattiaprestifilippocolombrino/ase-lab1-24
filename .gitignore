@@ -1,0 +1,16 @@
+virtual/
+venv/
+
+# Ignora file di log
+*.log
+
+# Ignora i file di compilazione
+*.pyc
+*.o
+
+# Ignora cartelle specifiche
+node_modules/
+build/
+
+# Ignora file temporanei di sistema
+.DS_Store
